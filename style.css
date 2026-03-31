@@ -12,8 +12,8 @@ nav {
   align-items: center;
   padding: 0 16px;
   background-color: #cafdff;
-  }
-  header {
+}
+header {
   background-color: #eadcff;
   height: calc(100vh-70px);
   padding: 24px;
@@ -35,30 +35,28 @@ button {
   padding: 8px 16px;
   font-size: 24px;
   cursor: pointer;
-} 
+}
 
-  a {
+a {
   color: black;
   font-size: 24px;
   font-weight: 700;
-
 }
 .logo {
   width: 300px;
-} 
+}
 ul {
   display: flex;
 }
 li {
   list-style-type: none;
-  padding-left: 16px; 
+  padding-left: 16px;
 }
 
 img {
   width: 100%;
   border-radius: 4px;
 }
-
 
 .row {
   width: 100%;
@@ -67,17 +65,16 @@ img {
   align-items: center;
   justify-content: center;
   margin: 0 auto;
-} 
+}
 #about,
 #discord,
 #contact,
 footer {
   padding: 48px 0;
-/* About section */
-
+  /* About section */
 }
 #about {
-  background-color: #f8ffdc
+  background-color: #f8ffdc;
 }
 
 h2 {
@@ -92,7 +89,7 @@ h2 {
   align-items: center;
 }
 .about__image--wrapper {
-  width: 40%;
+  width: 80%;
 }
 img {
   width: 100%;
@@ -100,8 +97,7 @@ img {
 
 .about__image--wrapper,
 .section__description--wrapper {
- padding: 0 24px;
-  
+  padding: 0 24px;
 }
 .section__description--para {
   font-size: 20px;
